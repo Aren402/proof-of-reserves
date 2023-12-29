@@ -91,16 +91,16 @@ Merkle tree path data json text:
 {
    "path": [
       {
-         "auditId": "Au20221125",
+         "auditId": "AuAu20231206",
          "balances": {
             "BTC": 4.6115136,
             "ETH": 0,
             "USDT": 4372722.80025793
          },
-         "encryptUid": "58b8f244a465335eb0c67e0d5c13a66b52c76abc1e41a6373763da35f5ce7ce1",
+         "encryptUid": "d977d01d7a5919541e3627d018220707547f93c5066ed8319ffa1b87a5054549",
          "level": 3,
-         "merkelLeaf": "8cf0243a2c76fe0b",
-         "nonce": "gblzjurybs7fiptqdaez6t3pegazguye77fhsr6q4tbqkndubnjf1962csg54em4",
+         "merkelLeaf": "7612b877a3563d0d",
+         "nonce": "sxf83wq27687uueqhjb74tnkh25m4d1qjordinunxrs4ow9agzltehre53cvqlk8",
          "role": 2
       },
       {
